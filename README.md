@@ -15,9 +15,9 @@ Besides, with version 3.0, we aim to optimize two important points for the whole
 
 ### Step 1. Install package dependencies 
 
-To use MetaboAnalystR 3.0, first install all package dependencies. Ensure that you have neceaary system environment configured. 
+To use MetaboAnalystR 3.0, first install all package dependencies. Ensure that you have necesary system environment configured. 
 
-For Linux (e.g. Ubuntu): libcairo2-dev, libnetcdf-dev, libxml2 and libssl-dev should be installed at frist;
+For Linux (e.g. Ubuntu): libcairo2-dev, libnetcdf-dev, libxml2 and libssl-dev should be installed at first;
 
 For Windows (e.g. 7/8/8.1/10): Rtools should be installed.
 
@@ -128,7 +128,7 @@ To demonstrate the functionality, flexibility, and scalability of the MetaboAnal
 
 ## Tutorials
 
-For detailed tutorials on how to use MetaboAnalystR 2.0, please refer to the R package vignettes. These vignettes include detailed step-by-step workflows with example data for each of the main MetaboAnalytR 2.0 modules (11), a case-study showcasing the new end-to-end functionality of MetaboAnalystR 2.0, as well as an example that demonstrates the ease of using XCMS and MetaboAnalystR 1.0 for a holisitic metabolomic data analysis (deprecated). Note, the functions below work only if the R package vignettes were built. 
+For detailed tutorials on how to use MetaboAnalystR 2.0, please refer to the R package vignettes. These vignettes include detailed step-by-step workflows with example data for each of the main MetaboAnalytR 2.0 modules (11), a case-study showcasing the new end-to-end functionality of MetaboAnalystR 2.0, as well as an example that demonstrates the ease of using XCMS and MetaboAnalystR 1.0 for a holistic metabolomic data analysis (deprecated). Note, the functions below work only if the R package vignettes were built. 
 
 Within R:
 ```R
